@@ -1,0 +1,120 @@
+Traceback (most recent call last):
+  File "/gpfs/projects/bgmp/isisd/bioinfo/Bi622/QAA/Part1/./Distribution_hist.py", line 4, in <module>
+    import bioinfo
+ModuleNotFoundError: No module named 'bioinfo'
+Command exited with non-zero status 1
+	Command being timed: "./Distribution_hist.py -p 101 -l 5278425 -f /projects/bgmp/shared/2017_sequencing/demultiplexed/7_2E_fox_S6_L008_R1_001.fastq.gz"
+	User time (seconds): 0.51
+	System time (seconds): 0.37
+	Percent of CPU this job got: 15%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:05.80
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11160
+	Voluntary context switches: 2648
+	Involuntary context switches: 3
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+/cm/local/apps/slurm/var/spool/job21832443/slurm_script: line 32: -o: command not found
+Finish 7R1
+Traceback (most recent call last):
+  File "/gpfs/projects/bgmp/isisd/bioinfo/Bi622/QAA/Part1/./Distribution_hist.py", line 4, in <module>
+    import bioinfo
+ModuleNotFoundError: No module named 'bioinfo'
+Command exited with non-zero status 1
+	Command being timed: "./Distribution_hist.py -p 101 -l 5278425 -f /projects/bgmp/shared/2017_sequencing/demultiplexed/7_2E_fox_S6_L008_R2_001.fastq.gz"
+	User time (seconds): 0.49
+	System time (seconds): 0.34
+	Percent of CPU this job got: 152%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.54
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45944
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11162
+	Voluntary context switches: 1040
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+/cm/local/apps/slurm/var/spool/job21832443/slurm_script: line 39: -o: command not found
+Finish 7R2
+Traceback (most recent call last):
+  File "/gpfs/projects/bgmp/isisd/bioinfo/Bi622/QAA/Part1/./Distribution_hist.py", line 4, in <module>
+    import bioinfo
+ModuleNotFoundError: No module named 'bioinfo'
+Command exited with non-zero status 1
+	Command being timed: "./Distribution_hist.py -p 101 -l 16348255 -f /projects/bgmp/shared/2017_sequencing/demultiplexed/19_3F_fox_S14_L008_R1_001.fastq.gz"
+	User time (seconds): 0.49
+	System time (seconds): 0.33
+	Percent of CPU this job got: 155%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 47980
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11157
+	Voluntary context switches: 1004
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+/cm/local/apps/slurm/var/spool/job21832443/slurm_script: line 46: -o: command not found
+Finish 19R1
+Traceback (most recent call last):
+  File "/gpfs/projects/bgmp/isisd/bioinfo/Bi622/QAA/Part1/./Distribution_hist.py", line 4, in <module>
+    import bioinfo
+ModuleNotFoundError: No module named 'bioinfo'
+Command exited with non-zero status 1
+	Command being timed: "./Distribution_hist.py -p 101 -l 16348255 -f /projects/bgmp/shared/2017_sequencing/demultiplexed/19_3F_fox_S14_L008_R2_001.fastq.gz"
+	User time (seconds): 0.50
+	System time (seconds): 0.32
+	Percent of CPU this job got: 154%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.53
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45940
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 11162
+	Voluntary context switches: 996
+	Involuntary context switches: 2
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 0
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 1
+/cm/local/apps/slurm/var/spool/job21832443/slurm_script: line 53: -o: command not found
+Finish 19R2
